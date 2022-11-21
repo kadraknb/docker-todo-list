@@ -1,13 +1,34 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do docker-todo-list!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+  <summary><strong>O que foi desenvolvido</strong></summary>
+  
+Temos uma aplicação full-stack neste repositório: um aplicativo de tarefas! Esta aplicação precisa ser conteinerizada para funcionar. Você deverá desenvolver os arquivos de configuração para cada frente específica: Front-end, Back-end e, no nosso caso, para um aplicativo de teste que valida se as aplicações estão se comunicando.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Você deverá criar as imagens para as aplicações e configurar essas imagens com o docker-compose.
+
+Para isto, você irá utilizar uma série de comandos do docker com diferentes níveis de complexidade.
+
+Cada comando deverá ser escrito em seu próprio arquivo.
+
+<br />
+</details>
+<details>
+  <summary><strong>HABILIDADES</strong></summary>
+
+Conteinerizar aplicações;
+Criar uma conexão entre elas;
+Orquestrar seu funcionamento.
+
+<br />
+</details>
+
+## 🛠 Tecnologias
+
+- docker-compose
+
+## 📪 Contato
+
+- Email: [vagner_cardoso_s@outlook.com](vagner_cardoso_s@outlook.com)
+- GitHub: [kadraknb](https://github.com/kadraknb)
+- LinkedIn: [vagner-cardos-santos](https://www.linkedin.com/in/vagner-cardos-santos/)
